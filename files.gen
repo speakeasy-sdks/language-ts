@@ -37,3 +37,4 @@ docs/models/operations/showpetbyidrequest.md
 docs/models/operations/showpetbyidresponse.md
 docs/models/shared/errort.md
 docs/models/shared/pet.md
+.gitattributes
