@@ -38,7 +38,7 @@ sdk.pets.createPets().then((res: CreatePetsResponse) => {
 ## Available Resources and Operations
 
 
-### [pets](docs/sdks/pets/README.md)
+### [Pets](docs/sdks/pets/README.md)
 
 * [createPets](docs/sdks/pets/README.md#createpets) - Create a pet
 * [listPets](docs/sdks/pets/README.md#listpets) - List all pets
