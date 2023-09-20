@@ -2,8 +2,8 @@ configVersion: 1.0.0
 management:
   docChecksum: 2516596125ef223fbbef6c434d22eaac
   docVersion: 1.0.0
-  speakeasyVersion: 1.86.0
-  generationVersion: 2.115.2
+  speakeasyVersion: 1.88.0
+  generationVersion: 2.118.1
 generation:
   comments:
     disableComments: false
@@ -14,10 +14,10 @@ generation:
   tagNamespacingDisabled: false
 features:
   typescript:
-    core: 2.87.2
+    core: 2.87.3
     globalServerURLs: 2.82.0
 typescript:
-  version: 0.5.2
+  version: 0.5.3
   author: ryan-test
   maxMethodParams: 0
   packageName: test-language-tags
