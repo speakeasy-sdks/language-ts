@@ -47,8 +47,6 @@ sdk.pets.createPets().then((res: CreatePetsResponse) => {
 
 <!-- Start Dev Containers -->
 
-
-
 <!-- End Dev Containers -->
 
 
@@ -61,8 +59,6 @@ returned response object will have a `next` method that can be called to pull do
 return value of `next` is `null`, then there are no more pages to be fetched.
 
 Here's an example of one such pagination call:
-
-
 <!-- End Pagination -->
 
 <!-- Placeholder for Future Speakeasy SDK Sections -->
