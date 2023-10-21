@@ -4,14 +4,15 @@
 ```typescript
 import { TestLanguageTags } from "test-language-tags";
 
-(async() => {
-  const sdk = new TestLanguageTags();
+(async () => {
+    const sdk = new TestLanguageTags();
 
-  const res = await sdk.pets.createPets();
+    const res = await sdk.pets.createPets();
 
-  if (res.statusCode == 200) {
-    // handle response
-  }
+    if (res.statusCode == 200) {
+        // handle response
+    }
 })();
+
 ```
 <!-- End SDK Example Usage -->
