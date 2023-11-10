@@ -1,6 +1,4 @@
 <!-- Start SDK Example Usage -->
-
-
 ```typescript
 import { TestLanguageTags } from "test-language-tags";
 
