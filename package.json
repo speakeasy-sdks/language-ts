@@ -1,6 +1,6 @@
 {
   "name": "test-language-tags",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "author": "ryan-test",
   "scripts": {
     "prepare": "tsc --build",
