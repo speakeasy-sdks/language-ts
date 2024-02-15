@@ -97,7 +97,7 @@ async function run() {
   const sdk = new TestLanguageTags();
 
   const res = await sdk.pets.showPetById({
-    petId: "string",
+    petId: "<value>",
   });
 
   if (res.statusCode == 200) {
