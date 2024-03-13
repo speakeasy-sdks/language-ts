@@ -3,17 +3,17 @@ id: dd5b50ea-789a-4220-af40-7e2c048360d9
 management:
   docChecksum: 2516596125ef223fbbef6c434d22eaac
   docVersion: 1.0.0
-  speakeasyVersion: internal
-  generationVersion: 2.258.2
-  releaseVersion: 0.12.2
-  configChecksum: fb02d3b6b423ee42d85ef5efbcef15ab
+  speakeasyVersion: 1.207.1
+  generationVersion: 2.280.6
+  releaseVersion: 0.12.3
+  configChecksum: 998a609b5c04b17b00464066e6160320
   repoURL: https://github.com/speakeasy-sdks/language-ts.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/language-ts
 features:
   typescript:
-    core: 3.4.7
-    globalServerURLs: 2.82.1
+    core: 3.4.8
+    globalServerURLs: 2.82.2
 generatedFiles:
   - src/sdk/pets.ts
   - src/sdk/sdk.ts
